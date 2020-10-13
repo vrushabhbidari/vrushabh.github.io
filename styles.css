@@ -1,0 +1,126 @@
+body{
+  background-color: #ff0080;
+  font-family: 'Bookman' , serif;
+}
+.Action-Mask{
+
+  height: 1000px ;
+  width: auto ;
+}
+.Mask-text{
+  font-family: 'Rockwell' , serif;
+  text-align: center;
+  padding-top: 200px ;
+  padding-bottom:  200px ;
+  font-size: 100px ;
+}
+.wearMask{
+  position: relative;
+  height: 400px ;
+  width : 500px ;
+  display: inline-block;
+  margin-left: 500px;
+}
+.carousel-caption-text{
+  color : black ;
+  font-family: 'Courier' , serif ;
+  font-size: 50px ;
+  text-align: center;
+}
+.fight{
+  position: relative;
+  display: inline-block;
+  height: 400px ;
+  width: 500px ;
+  margin-left: 500px ;
+}
+.social_distancing{
+  position: relative;
+  display: inline-block;
+  height: 400px ;
+  width: 500px ;
+  margin-left: 500px ;
+}
+.school-image{
+  height : 250px ;
+  margin-left: 60px ;
+  width : 250px ;
+}
+.buttons{
+  margin: 15px 2px 15px 2px ;
+  display: block ;
+}
+.card-text{
+  text-align: center;
+}
+.buttons-1{
+  margin : 66px 2px 15px 2px ;
+}
+.infection-image{
+  height : 215px ;
+  margin-left: 60px ;
+  width : 250px ;
+}
+.buttons-2{
+  margin : 50px 2px 10px 2px ;
+}
+.travel-guide{
+  height : 600px ;
+  width : auto;
+
+}
+.casenumbers{
+  padding: 50px 0 50px 0 ;
+
+}
+.numbers-text{
+  font-family: 'Florence', sans-serif;
+  font-size: 25px ;
+  text-align: center;
+}
+.Guide{
+  height: 300px ;
+  width: auto ;
+  padding: 200px ;
+  margin-left: 300px ;
+  text-align: center;
+  font-family: 'Calibri', cursive;
+  font-size: 25px ;
+}
+.space{
+  height: 100px ;
+  width : auto ;
+}
+.medicine-image{
+  height: 250px ;
+  width : 250px ;
+  margin-left: 75px ;
+}
+.buttons-med{
+
+}
+.buttons-control{
+  margin-top: 97px ;
+}
+.control-image{
+  margin-left: 100px ;
+}
+.oxygen-image{
+  margin-left:  65px ;
+}
+.stigma-image{
+  height : 225px ;
+  width : 250px ;
+  margin-left: 70px ;
+}
+.buttons-stigma{
+
+}
+.digital-image{
+  height : 225px ;
+  width : 250px ;
+  margin-left: 75px ;
+}
+.buttons-Digital{
+
+}
